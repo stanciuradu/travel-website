@@ -1,0 +1,158 @@
+{
+    "Amazon":{
+        "items":[
+            {
+                "image":"https://i.imgur.com/dpYLQ39.jpg",
+                "flight":"Bucharest-Manaus(Brazil)",
+                "company":"Qatar Airways",
+                "price":"5793",
+                "currency":"RON",
+                "time":"20h",
+                "hotels":"Novotel Manaus",
+                "imageHotels":"https://i.imgur.com/VDU9vXo.jpg"
+            },
+            {
+                "image":"https://i.imgur.com/IG2WsYv.jpg",
+                "flight":"Bucharest-Manaus(Brazil)",
+                "company":"SWISS",
+                "price":"6459",
+                "time":"22h 30 min",
+                "currency":"RON",
+                "hotels":"Amazon Place",
+                "imageHotels":"https://i.imgur.com/FVbbT8l.jpg"
+            }
+        ],
+        "image":"https://i.imgur.com/QV4GCM5.jpg",
+        "description":"Explorează cascada ascunsa din Jungla Amazon"
+    },
+    "Insulele Bali":{
+        "items":[
+            {
+                "image":"https://i.imgur.com/KQJpqMb.jpg",
+                "flight":"Bucharest-Dempasar(Indonezia)",
+                "company":"Turkish Ailines",
+                "price":"3443",
+                "currency":"RON",
+                "time":"28h 45min",
+                "hotels":"Grand Zuri Hotels Kuta-Bali",
+                "imageHotels":"https://i.imgur.com/QaTZOaR.jpg"
+            },
+            {
+                "image":"https://i.imgur.com/E4A1l82.jpg",
+                "flight":"Bucharest-Dempasar(Indonezia)",
+                "company":"Turkish Ailines",
+                "price":"3443",
+                "currency":"RON",
+                "time":"16h 40min",
+                "hotels":"Parigota Resort and SPA",
+                "imageHotels":"https://i.imgur.com/JQiEAvX.jpg"
+            }
+        ],
+        "image":"https://i.imgur.com/mWtUquk.jpg",
+        "description":"Explorează insulelele private din Bali"
+    },
+    "Oceanul Atlantic":{
+        "items":[
+            {
+                "image":"https://i.imgur.com/gfH6yWP.jpg",
+                "flight":"Bucharest-Sao Paolo(Brazil)",
+                "company":"Qatar Ailines",
+                "price":"5000",
+                "currency":"RON",
+                "time":"30h 45min",
+                "hotels":"SERS Natal",
+                "imageHotels":"https://i.imgur.com/1kQc1Nv.jpg"
+            },
+            {
+                "image":"https://i.imgur.com/VBQYv6o.jpg",
+                "flight":"Bucharest-Sao Paulo(Brazil)",
+                "company":"Qatar Ailines",
+                "price":"6500",
+                "currency":"RON",
+                "time":"23h 30min",
+                "hotels":"Hotel Grand Marsuquie",
+                "imageHotels":"https://i.imgur.com/uKdlbC0.jpg"
+            }
+        ],
+        "image":"https://i.imgur.com/jBTzUz4.jpg",
+        "description":"Navighează pe Oceanul Atlantic și înfruntă valurile neliniștite"
+    },
+    "Munții Himalaya":{
+        "items":[
+            {
+                "image":"https://i.imgur.com/PYQFFZs.jpg",
+                "flight":"Bucharest-Kathmandu",
+                "company":"Qatar Ailines",
+                "price":"2618",
+                "currency":"RON",
+                "time":"24h 10min",
+                "hotels":"Zostel Katmandu",
+                "imageHotels":"https://i.imgur.com/hlXhPWS.jpg"
+            },
+            {
+                "image":"https://i.imgur.com/zLL2r8X.jpg",
+                "flight":"Bucharest-Kathmandu",
+                "company":"Turkish Ailines",
+                "price":"3604",
+                "currency":"RON",
+                "time":"17h 45min",
+                "hotels":"Gurung's Home",
+                "imageHotels":"https://i.imgur.com/a29y3Us.jpg"
+            }
+        ],
+        "image":"https://i.imgur.com/p7u5KA7.jpg",
+        "description":"Explorează munții Himalaya"
+    },
+    "Deșertul Sahara":{
+        "items":[
+            {
+                "image":"https://i.imgur.com/hFoA5p5.jpg",
+                "flight":"Bucharest-Maroc",
+                "company":"Qatar Ailines",
+                "price":"3000",
+                "currency":"RON",
+                "time":"35h 10min",
+                "hotels":"Hotel Taghaghien Island",
+                "imageHotels":"https://i.imgur.com/e7uI3W5.jpg"
+            },
+            {
+                "image":"https://i.imgur.com/R21MIOJ.jpg",
+                "flight":"Bucharest-Maroc",
+                "company":"Turkish Ailines",
+                "price":"2900",
+                "currency":"RON",
+                "time":"28h 45min",
+                "hotels":"Taziry Ecovillages Siwa",
+                "imageHotels":"https://i.imgur.com/jyZE4ut.jpg"
+            }
+        ],
+        "image":"https://i.imgur.com/amdn8gw.jpg",
+        "description":"Plimbă-te prin Deșertul Sahara și explorează misterele și climatul specific"
+    },
+    "Insulele Maldive":{
+        "items":[
+            {
+                "image":"https://i.imgur.com/ciVY6XB.jpg",
+                "flight":"Bucharest-Male(Maldive)",
+                "company":"EMIRATES",
+                "price":"4125",
+                "currency":"RON",
+                "time":"36h",
+                "hotels":"Hathaa Beach Maldives",
+                "imageHotels":"https://i.imgur.com/wn1ZbzO.jpg"
+            },
+            {
+                "image":"https://i.imgur.com/YMHgnmU.jpg",
+                "flight":"Bucharest-Male(Maldive)",
+                "company":"Turkish Ailines",
+                "price":"4379",
+                "currency":"RON",
+                "time":"30h 10min",
+                "hotels":"Luckyhiya Hotel",
+                "imageHotels":"https://i.imgur.com/kNAjVQc.jpg"
+            }
+        ],
+        "image":"https://i.imgur.com/DyUMafP.jpg",
+        "description":"Relaxează-te în liniștea insulelor Maldive și bucură-te de un sejur de vis"
+    } 
+}

@@ -1,0 +1,17 @@
+.header{
+    height: 120vh;
+    background-image: url('https://i.imgur.com/tckfFKk.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header h1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(119, 36, 36);
+    font-weight: bold;
+}
+.header .title{
+    padding-top: 9rem;
+}

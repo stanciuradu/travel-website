@@ -1,0 +1,66 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10rem;
+    background-color: black;
+    color: white;
+}
+.footer .input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+.input .email{
+    width: 12rem;
+    height: auto;
+    margin-right: 1rem;
+    border: 2px solid black;
+}
+.input #submit{
+    background-color: black;
+    color: white;
+    width: 10rem;
+    border: 2px solid white;
+}
+.footer-column{
+    display:flex;
+    justify-content: center;
+}
+.footer-column h1{
+    margin-right: 2rem;
+}
+.footer .copy{
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+}
+.footer img{
+    border-radius: 3rem;
+    width: 3rem;
+    margin-right: 3rem;
+}
+.copy p{
+   margin-top: 1.5rem;
+   margin-right: 3rem;
+}
+.contact{
+    display: flex;
+    justify-content: space-evenly;
+    font: 1rem;
+    color:white;
+}
+.contact h4{
+    margin-top: 2rem;
+    margin-right: 1rem;
+}
+.footer .paragraf{
+    color: white;
+}
+.input p{
+    margin-top: 1rem;
+    margin-right: 1rem;
+    color: red;
+}
