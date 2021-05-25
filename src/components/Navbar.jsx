@@ -12,7 +12,7 @@ function Navbar() {
       <div className="col col-md-4">
         <h1>Vacanța de vis</h1>
       </div>
-      <div className="col col-md-4">
+      <div className="col">
         <nav className="nav">
           <ul>
             <li>

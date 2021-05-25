@@ -2,7 +2,7 @@
   display: flex;
   background-color: rgb(148, 50, 50);
 }
-
+/*  */
 .col img {
   width: 5.5rem;
   height: auto;
@@ -25,10 +25,4 @@
   color: white;
   margin-right: 1rem;
   margin-top: 0.5rem;
-}
-.col h2{
-  align-items: center;
-  justify-content: center;
-  color: white;
-  font-size: 1.5rem;
 }

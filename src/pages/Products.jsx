@@ -12,9 +12,13 @@ function Products() {
           Pentru un bilet dus-intors pe ruta București-Maldive avem la
           dispoziție doua bilete la jumătate de preț pentru cei dragi:
         </p>
-        <div className="sejur-Maldive">
-          <img src="https://i.imgur.com/uTI4wZv.jpg" alt="random" />
-          <img src="https://i.imgur.com/777EK1K.jpg" alt="random" />
+        <div class="row">
+          <div class="col-products">
+            <img src="https://i.imgur.com/uTI4wZv.jpg" alt="random" />
+          </div>
+          <div class="col-products">
+            <img src="https://i.imgur.com/777EK1K.jpg" alt="random" />
+          </div>
         </div>
       </div>
     </div>
