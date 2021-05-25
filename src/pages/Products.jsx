@@ -14,10 +14,10 @@ function Products() {
         </p>
         <div class="row">
           <div class="col-products">
-            <img src="https://i.imgur.com/uTI4wZv.jpg" alt="random" />
+            <img src="https://i.imgur.com/uTI4wZv.jpg" alt="random" className='w-100' />
           </div>
           <div class="col-products">
-            <img src="https://i.imgur.com/777EK1K.jpg" alt="random" />
+            <img src="https://i.imgur.com/777EK1K.jpg" alt="random" className='w-100' />
           </div>
         </div>
       </div>

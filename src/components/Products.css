@@ -1,11 +1,8 @@
 .col-products img {
-  width: 70vh;
-  border-radius: 2rem;
   border-radius: 2rem;
   border-color: blue;
   background-color: brown;
   padding: 0.5rem;
-  margin-right: 1rem;
 }
 .col-products {
   display: flex;
