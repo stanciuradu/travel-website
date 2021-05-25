@@ -1,66 +1,87 @@
-.footer{
-    display: flex;
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10rem;
+  background-color: black;
+  color: white;
+}
+@media (max-width: 768px) { 
+  .footer-flex-title{
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 10rem;
-    background-color: black;
-    color: white;
+  }
+ }
+.footer .input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
 }
-.footer .input{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 1rem;
+@media (max-width: 768px) { 
+  .footer-flex-formular{
+    flex-direction: column;
+  }
+ }
+.input .email {
+  width: 12rem;
+  height: auto;
+  margin-right: 1rem;
+  border: 2px solid black;
 }
-.input .email{
-    width: 12rem;
-    height: auto;
-    margin-right: 1rem;
-    border: 2px solid black;
+.input #submit {
+  background-color: black;
+  color: white;
+  width: 10rem;
+  border: 2px solid white;
 }
-.input #submit{
-    background-color: black;
-    color: white;
-    width: 10rem;
-    border: 2px solid white;
+.footer-column {
+  display: flex;
+  justify-content: center;
 }
-.footer-column{
-    display:flex;
-    justify-content: center;
+.footer-column h1 {
+  margin-right: 2rem;
 }
-.footer-column h1{
-    margin-right: 2rem;
+.footer .copy {
+  display: flex;
+  align-items: center;
+  margin-top: 2rem;
 }
-.footer .copy{
-    display: flex;
-    align-items: center;
-    margin-top: 2rem;
+@media (max-width: 768px) { 
+  .footer-flex-social{
+    flex-direction: column;
+  }
+ }
+.footer img {
+  border-radius: 3rem;
+  width: 3rem;
+  margin-right: 3rem;
 }
-.footer img{
-    border-radius: 3rem;
-    width: 3rem;
-    margin-right: 3rem;
+.copy p {
+  margin-top: 1.5rem;
+  margin-right: 3rem;
 }
-.copy p{
-   margin-top: 1.5rem;
-   margin-right: 3rem;
+.contact {
+  display: flex;
+  justify-content: space-evenly;
+  font: 1rem;
+  color: white;
 }
-.contact{
-    display: flex;
-    justify-content: space-evenly;
-    font: 1rem;
-    color:white;
+/* folosesc media queris pentru a ii spune CSS ului s faca anumite schimbari in functie de dimensiunea ecranului */
+@media (max-width: 768px) { 
+  .footer-flex-container{
+    flex-direction: column;
+  }
+ }
+.contact h4 {
+  margin-top: 2rem;
+  margin-right: 1rem;
 }
-.contact h4{
-    margin-top: 2rem;
-    margin-right: 1rem;
+.footer .paragraf {
+  color: white;
 }
-.footer .paragraf{
-    color: white;
-}
-.input p{
-    margin-top: 1rem;
-    margin-right: 1rem;
-    color: red;
+.input p {
+  margin-top: 1rem;
+  margin-right: 1rem;
+  color: red;
 }
