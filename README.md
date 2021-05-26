@@ -1,4 +1,4 @@
-# JavaScript Advanced - React - Proiectul 2
+# Website modern pentru pasionații de călătorie
 Website modern pentru pasionații de călătorie, realizat cu React Router și Boostrapt CSS
 
 ## Functionalitati
