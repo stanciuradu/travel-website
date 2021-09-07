@@ -4,6 +4,8 @@ Website modern pentru pasionații de călătorie, realizat cu React Router și B
 ## Functionalitati
 
 * La click pe o anumită categorie de călătorii prezentate în pagina principală, utilizatorul va putea vedea detalii suplimentare în legătură cu acel sejur prin rutarea dinamică implementată
+#
+Link către aplicație:https://travel-website-react-js.netlify.app/
 
 
 
